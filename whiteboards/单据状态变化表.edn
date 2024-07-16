@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "## 录入\n新增单据之后的状态，可以==编辑，删除，启动=="
+{:block/content "## 录入（未启用）\n新增单据之后的状态，可以==编辑，删除，启动=="
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
@@ -8,7 +8,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "6695f039-7e67-4bc4-b9f7-67761db8d4a6"} 
-{:block/created-at 1721106682241
+{:block/created-at 1721106830867
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -26,7 +26,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [200 110.5999984741211]
+:size [200 112.80000305175781]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -35,8 +35,8 @@
 :point [80 136]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721102385587}}
-:block/updated-at 1721106682241} 
+:nonce 1721102385588}}
+:block/updated-at 1721106830867} 
 {:block/content "## 进行中\nid:: 6695f053-5ece-4e49-95e6-329dee97fc13\n点击启动变成进行中。可以==编辑，暂停=="
 :block/format :markdown
 :block/left 
@@ -84,7 +84,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "66960021-f376-4f7e-bcea-bc8748162881"} 
-{:block/created-at 1721106785180
+{:block/created-at 1721106789980
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -101,7 +101,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [200 88.80000305175781]
+:size [200 110.5999984741211]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -110,9 +110,9 @@
 :point [480 368]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106464984}}
-:block/updated-at 1721106785180} 
-{:block/content "## 已删除\n录入、暂停时可以"
+:nonce 1721106464985}}
+:block/updated-at 1721106789980} 
+{:block/content "## 已删除"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66960021-f376-4f7e-bcea-bc8748162881"}
@@ -121,7 +121,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "66960032-f0a4-419b-854f-cd02b50b7f35"} 
-{:block/created-at 1721106784391
+{:block/created-at 1721106797644
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -138,7 +138,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [192 86.5999984741211]
+:size [192 62.60000228881836]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -147,9 +147,9 @@
 :point [96 424]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106480427}}
-:block/updated-at 1721106784391} 
-{:block/created-at 1721106724553
+:nonce 1721106480429}}
+:block/updated-at 1721106797644} 
+{:block/created-at 1721106830925
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -166,7 +166,7 @@
 :id "ae63f6a2-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [281 201.05]
+:point [281 201.89]
 :fontSize 20
 :handles 
 {:start 
@@ -177,15 +177,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [227 21.91]
+:point [227 21.34]
 :bindingId "ae63f6a1-4331-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106613134
+:nonce 1721106613135
 :italic false}}
-:block/updated-at 1721106724553} 
-{:block/created-at 1721106785188
+:block/updated-at 1721106830925} 
+{:block/created-at 1721106789987
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -202,13 +202,13 @@
 :id "b74a67e2-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [561.86 271.6]
+:point [564.16 271.6]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [23.7 0]
+:point [22.27 0]
 :bindingId "b74a67e0-4331-11ef-86c2-e736019976a9"}
 :end 
 {:id "end"
@@ -218,10 +218,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106628038
+:nonce 1721106628039
 :italic false}}
-:block/updated-at 1721106785188} 
-{:block/created-at 1721106784396
+:block/updated-at 1721106789987} 
+{:block/created-at 1721106830925
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -238,7 +238,7 @@
 :id "bdfcbb10-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [181.97 247.6]
+:point [182.12 249.8]
 :fontSize 20
 :handles 
 {:start 
@@ -249,15 +249,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [6.02 172.4]
+:point [6.29 170.2]
 :bindingId "bdfc9401-4331-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106639231
+:nonce 1721106639234
 :italic false}}
-:block/updated-at 1721106784396} 
-{:block/created-at 1721106785188
+:block/updated-at 1721106830925} 
+{:block/created-at 1721106797654
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -274,7 +274,7 @@
 :id "c2d2fb42-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [292 425.52]
+:point [292 430.98]
 :fontSize 20
 :handles 
 {:start 
@@ -285,14 +285,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [0 24.28]
+:point [0 14.23]
 :bindingId "c2d2fb41-4331-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106647351
+:nonce 1721106647354
 :italic false}}
-:block/updated-at 1721106785188})
+:block/updated-at 1721106797654})
 :pages (
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"
 :block/properties 
@@ -368,7 +368,7 @@
 :nonce 1
 :assets []
 :shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9" "5f4ee840-4331-11ef-86c2-e736019976a9" "ae63f6a2-4331-11ef-86c2-e736019976a9" "b74a67e2-4331-11ef-86c2-e736019976a9" "bdfcbb10-4331-11ef-86c2-e736019976a9" "c2d2fb42-4331-11ef-86c2-e736019976a9")}}
-:block/updated-at 1721106789313
+:block/updated-at 1721106836113
 :block/created-at 1721102375283
 :block/type "whiteboard"
 :block/name "单据状态变化表"

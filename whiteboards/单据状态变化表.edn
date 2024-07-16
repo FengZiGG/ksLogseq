@@ -8,7 +8,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "6695f039-7e67-4bc4-b9f7-67761db8d4a6"} 
-{:block/created-at 1721107234596
+{:block/created-at 1721107276300
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -32,11 +32,11 @@
 :opacity 1
 :id "d68daf90-4327-11ef-86c2-e736019976a9"
 :noFill false
-:point [168 136]
+:point [88 128]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721102385699}}
-:block/updated-at 1721107234596} 
+:nonce 1721102385743}}
+:block/updated-at 1721107276300} 
 {:block/content "## 进行中（启用）\nid:: 6695f053-5ece-4e49-95e6-329dee97fc13\n点击启动变成进行中。可以==编辑，暂停=="
 :block/format :markdown
 :block/left 
@@ -84,7 +84,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "66960021-f376-4f7e-bcea-bc8748162881"} 
-{:block/created-at 1721107227052
+{:block/created-at 1721107303935
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -110,8 +110,8 @@
 :point [256 384]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106465155}}
-:block/updated-at 1721107227052} 
+:nonce 1721106465157}}
+:block/updated-at 1721107303935} 
 {:block/content "## 已删除"
 :block/format :markdown
 :block/left 
@@ -121,7 +121,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "66960032-f0a4-419b-854f-cd02b50b7f35"} 
-{:block/created-at 1721107234596
+{:block/created-at 1721107276300
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -138,7 +138,7 @@
 :id "ae63f6a2-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [369 194.12]
+:point [289 187.55]
 :fontSize 20
 :handles 
 {:start 
@@ -149,15 +149,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [123 3.44]
+:point [203 8.53]
 :bindingId "ae63f6a1-4331-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106613178
+:nonce 1721106613188
 :italic false}}
-:block/updated-at 1721107234596} 
-{:block/created-at 1721107227052
+:block/updated-at 1721107276300} 
+{:block/created-at 1721107303935
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -190,9 +190,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106628104
+:nonce 1721106628106
 :italic false}}
-:block/updated-at 1721107227052} 
+:block/updated-at 1721107303935} 
 {:block/content "## 重启"
 :block/format :markdown
 :block/left 
@@ -202,7 +202,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "669601ea-14ee-4a25-a156-7ea1694a8948"} 
-{:block/created-at 1721107231740
+{:block/created-at 1721107272020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -225,11 +225,11 @@
 :opacity 1
 :id "6664c2c0-4332-11ef-86c2-e736019976a9"
 :noFill false
-:point [640 392]
+:point [648 392]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106922273}}
-:block/updated-at 1721107231740} 
+:nonce 1721106922343}}
+:block/updated-at 1721107272020} 
 {:block/content "## 停用\n启用的时候才能停用"
 :block/format :markdown
 :block/left 
@@ -303,7 +303,7 @@
 :nonce 1721107166659
 :italic false}}
 :block/updated-at 1721107237677} 
-{:block/created-at 1721107231740
+{:block/created-at 1721107303935
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -320,7 +320,7 @@
 :id "06bd0a22-4333-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [457 440.22]
+:point [457 440.2]
 :fontSize 20
 :handles 
 {:start 
@@ -331,15 +331,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [179 1.63]
+:point [187 1.68]
 :bindingId "06bd0a21-4333-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721107190900
+:nonce 1721107190917
 :italic false}}
-:block/updated-at 1721107231740} 
-{:block/created-at 1721107231740
+:block/updated-at 1721107303935} 
+{:block/created-at 1721107272021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -356,13 +356,13 @@
 :id "0e5b43f2-4333-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [623.66 254.6]
+:point [626.2 254.6]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [94.06 136.4]
+:point [98.48 136.4]
 :bindingId "0e5b43f0-4333-11ef-86c2-e736019976a9"}
 :end 
 {:id "end"
@@ -372,9 +372,120 @@
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721107203571
+:nonce 1721107203586
 :italic false}}
-:block/updated-at 1721107231740})
+:block/updated-at 1721107272021} 
+{:block/created-at 1721107298820
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [88 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "编辑，启动"
+:id "3e499ee0-4333-11ef-86c2-e736019976a9"
+:fontWeight 400
+:noFill false
+:point [336 136]
+:fontSize 20
+:parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
+:nonce 1721107283985
+:italic false}}
+:block/updated-at 1721107298820} 
+{:block/created-at 1721107310572
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "49e6a4a2-4333-11ef-86c2-e736019976a9"
+:fontWeight 400
+:noFill true
+:point [407.19 254.6]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 128.4]
+:bindingId "49e6a4a0-4333-11ef-86c2-e736019976a9"}
+:end 
+{:id "end"
+:canBind true
+:point [116.73 0]
+:bindingId "49e6a4a1-4333-11ef-86c2-e736019976a9"}}
+:decorations 
+{:end "arrow"}
+:parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
+:nonce 1721107303449
+:italic false}}
+:block/updated-at 1721107310572} 
+{:block/created-at 1721107313801
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [72 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "暂停"
+:id "4dacfb70-4333-11ef-86c2-e736019976a9"
+:fontWeight 400
+:noFill false
+:point [368 288]
+:fontSize 20
+:parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
+:nonce 1721107309753
+:italic false}}
+:block/updated-at 1721107313801} 
+{:block/created-at 1721107323862
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [88 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "继续"
+:id "525303e0-4333-11ef-86c2-e736019976a9"
+:fontWeight 400
+:noFill false
+:point [464 320]
+:fontSize 20
+:parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
+:nonce 1721107317622
+:italic false}}
+:block/updated-at 1721107323862})
 :pages (
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"
 :block/properties 
@@ -439,11 +550,27 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
+:49e6a4a1-4333-11ef-86c2-e736019976a9 
+{:id "49e6a4a1-4333-11ef-86c2-e736019976a9"
+:type "line"
+:fromId "49e6a4a2-4333-11ef-86c2-e736019976a9"
+:toId "ea3a9cb0-4327-11ef-86c2-e736019976a9"
+:handleId "end"
+:point [0.67 0.35]
+:distance 4}
 :ae63f6a0-4331-11ef-86c2-e736019976a9 
 {:id "ae63f6a0-4331-11ef-86c2-e736019976a9"
 :type "line"
 :fromId "ae63f6a2-4331-11ef-86c2-e736019976a9"
 :toId "d68daf90-4327-11ef-86c2-e736019976a9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:49e6a4a0-4333-11ef-86c2-e736019976a9 
+{:id "49e6a4a0-4333-11ef-86c2-e736019976a9"
+:type "line"
+:fromId "49e6a4a2-4333-11ef-86c2-e736019976a9"
+:toId "56207180-4331-11ef-86c2-e736019976a9"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -465,8 +592,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9" "ae63f6a2-4331-11ef-86c2-e736019976a9" "b74a67e2-4331-11ef-86c2-e736019976a9" "6664c2c0-4332-11ef-86c2-e736019976a9" "d2b0c280-4332-11ef-86c2-e736019976a9" "f85d13d0-4332-11ef-86c2-e736019976a9" "06bd0a22-4333-11ef-86c2-e736019976a9" "0e5b43f2-4333-11ef-86c2-e736019976a9")}}
-:block/updated-at 1721107237677
+:shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9" "ae63f6a2-4331-11ef-86c2-e736019976a9" "b74a67e2-4331-11ef-86c2-e736019976a9" "6664c2c0-4332-11ef-86c2-e736019976a9" "d2b0c280-4332-11ef-86c2-e736019976a9" "f85d13d0-4332-11ef-86c2-e736019976a9" "06bd0a22-4333-11ef-86c2-e736019976a9" "0e5b43f2-4333-11ef-86c2-e736019976a9" "3e499ee0-4333-11ef-86c2-e736019976a9" "49e6a4a2-4333-11ef-86c2-e736019976a9" "4dacfb70-4333-11ef-86c2-e736019976a9" "525303e0-4333-11ef-86c2-e736019976a9")}}
+:block/updated-at 1721107323862
 :block/created-at 1721102375283
 :block/type "whiteboard"
 :block/name "单据状态变化表"

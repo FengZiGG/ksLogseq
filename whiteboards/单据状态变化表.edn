@@ -1,19 +1,20 @@
 {:blocks (
-{:block/content "录入\n新增单据之后的状态，可以编辑，删除，启动"
+{:block/content "## 录入\n新增单据之后的状态，可以编辑，删除，启动"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
 :block/parent 
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
 :block/properties 
-{}
+{:heading 2}
 :block/uuid #uuid "6695f039-7e67-4bc4-b9f7-67761db8d4a6"} 
-{:block/created-at 1721102398564
+{:block/created-at 1721106496339
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
+:rotation 0
 :collapsed false
 :borderRadius 8
 :index 0
@@ -24,27 +25,27 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 64.80000305175781]
+:size [208 110.5999984741211]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "d68daf90-4327-11ef-86c2-e736019976a9"
 :noFill false
-:point [272 144]
+:point [192 136]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721102385420}}
-:block/updated-at 1721102398564} 
-{:block/content "进行中"
+:nonce 1721102385531}}
+:block/updated-at 1721106496339} 
+{:block/content "## 进行中\n点击启动后"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6695f039-7e67-4bc4-b9f7-67761db8d4a6"}
 :block/parent 
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
 :block/properties 
-{}
+{:heading 2}
 :block/uuid #uuid "6695f053-5ece-4e49-95e6-329dee97fc13"} 
-{:block/created-at 1721102419148
+{:block/created-at 1721106533407
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -60,7 +61,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.79999923706055]
+:size [400 86.5999984741211]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -69,18 +70,18 @@
 :point [312 264]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721102418429}}
-:block/updated-at 1721102419148} 
-{:block/content "暂停"
+:nonce 1721102418431}}
+:block/updated-at 1721106533407} 
+{:block/content "## 暂停\n启动的时候点击暂停"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6695f053-5ece-4e49-95e6-329dee97fc13"}
 :block/parent 
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
 :block/properties 
-{}
+{:heading 2}
 :block/uuid #uuid "66960021-f376-4f7e-bcea-bc8748162881"} 
-{:block/created-at 1721106465920
+{:block/created-at 1721106538554
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -96,7 +97,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.79999923706055]
+:size [400 64.80000305175781]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -105,8 +106,42 @@
 :point [352 376]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106464922}}
-:block/updated-at 1721106465920})
+:nonce 1721106464924}}
+:block/updated-at 1721106538554} 
+{:block/content "已删除"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66960021-f376-4f7e-bcea-bc8748162881"}
+:block/parent 
+{:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
+:block/uuid #uuid "66960032-f0a4-419b-854f-cd02b50b7f35"} 
+{:block/created-at 1721106482828
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66960032-f0a4-419b-854f-cd02b50b7f35"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.79999923706055]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5f4ee840-4331-11ef-86c2-e736019976a9"
+:noFill false
+:point [352 456]
+:parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
+:collapsedHeight 0
+:nonce 1721106480326}}
+:block/updated-at 1721106482828})
 :pages (
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"
 :block/properties 
@@ -118,8 +153,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9")}}
-:block/updated-at 1721106470131
+:shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9" "5f4ee840-4331-11ef-86c2-e736019976a9")}}
+:block/updated-at 1721106547307
 :block/created-at 1721102375283
 :block/type "whiteboard"
 :block/name "单据状态变化表"

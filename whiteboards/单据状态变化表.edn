@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "## 录入（未启用）\n新增单据之后的状态，可以编辑，删除，启动"
+{:block/content "## 录入（未启用）\n新增单据之后的状态，可以编辑，删除，启动\n==0=="
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
@@ -8,7 +8,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "6695f039-7e67-4bc4-b9f7-67761db8d4a6"} 
-{:block/created-at 1721107396743
+{:block/created-at 1721107495870
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -26,7 +26,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [200 110.5999984741211]
+:size [200 112.80000305175781]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -35,8 +35,8 @@
 :point [88 128]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721102385746}}
-:block/updated-at 1721107396743} 
+:nonce 1721102385750}}
+:block/updated-at 1721107495870} 
 {:block/content "## 进行中（启用）\nid:: 6695f053-5ece-4e49-95e6-329dee97fc13\n点击启动变成进行中。可以编辑，暂停"
 :block/format :markdown
 :block/left 
@@ -121,7 +121,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "66960032-f0a4-419b-854f-cd02b50b7f35"} 
-{:block/created-at 1721107396752
+{:block/created-at 1721107495884
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -138,7 +138,7 @@
 :id "ae63f6a2-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [289 185.53]
+:point [289 186.36]
 :fontSize 20
 :handles 
 {:start 
@@ -149,14 +149,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [211 4.65]
+:point [211 4.09]
 :bindingId "ae63f6a1-4331-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106613206
+:nonce 1721106613210
 :italic false}}
-:block/updated-at 1721107396752} 
+:block/updated-at 1721107495884} 
 {:block/created-at 1721107392520
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -472,7 +472,7 @@
 :nonce 1721107377967
 :italic false}}
 :block/updated-at 1721107381751} 
-{:block/content "## 完成"
+{:block/content "## 完成\n完成后，可以编辑"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "669602a5-65bd-4c68-8662-8ee85ab8f085"}
@@ -481,7 +481,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "669603e6-568b-46a5-b6d7-f7221b17adcd"} 
-{:block/created-at 1721107443931
+{:block/created-at 1721107479254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -498,7 +498,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [104 62.60000228881836]
+:size [216 86.5999984741211]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -507,9 +507,10 @@
 :point [528 -88]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721107430157}}
-:block/updated-at 1721107443931} 
-{:block/properties 
+:nonce 1721107430174}}
+:block/updated-at 1721107479254} 
+{:block/created-at 1721107479254
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -525,25 +526,25 @@
 :id "9ef47a32-4333-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [586.01 -21.4]
+:point [608.96 2.6]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [3.66 116.4]
+:point [0 92.4]
 :bindingId "9ef47a30-4333-11ef-86c2-e736019976a9"}
 :end 
 {:id "end"
 :canBind true
-:point [0 0]
+:point [21.1 0]
 :bindingId "9ef47a31-4333-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721107446175
+:nonce 1721107446188
 :italic false}}
-:block/updated-at 1721107447292})
+:block/updated-at 1721107479254})
 :pages (
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"
 :block/properties 
@@ -683,7 +684,7 @@
 :nonce 1
 :assets []
 :shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9" "ae63f6a2-4331-11ef-86c2-e736019976a9" "b74a67e2-4331-11ef-86c2-e736019976a9" "d2b0c280-4332-11ef-86c2-e736019976a9" "f85d13d0-4332-11ef-86c2-e736019976a9" "3e499ee0-4333-11ef-86c2-e736019976a9" "49e6a4a2-4333-11ef-86c2-e736019976a9" "4dacfb70-4333-11ef-86c2-e736019976a9" "525303e0-4333-11ef-86c2-e736019976a9" "614e28c2-4333-11ef-86c2-e736019976a9" "6ef444f0-4333-11ef-86c2-e736019976a9" "7655c3e0-4333-11ef-86c2-e736019976a9" "95660920-4333-11ef-86c2-e736019976a9" "9ef47a32-4333-11ef-86c2-e736019976a9")}}
-:block/updated-at 1721107447292
+:block/updated-at 1721107503715
 :block/created-at 1721102375283
 :block/type "whiteboard"
 :block/name "单据状态变化表"

@@ -75,7 +75,7 @@
 :collapsedHeight 0
 :nonce 1721102418596}}
 :block/updated-at 1721106724546} 
-{:block/content "## 暂停\n启动的时候点击==暂停"
+{:block/content "## 暂停\n启动的时候点击==编辑，删除=="
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6695f053-5ece-4e49-95e6-329dee97fc13"}
@@ -84,7 +84,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "66960021-f376-4f7e-bcea-bc8748162881"} 
-{:block/created-at 1721106725210
+{:block/created-at 1721106785180
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -101,7 +101,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [200 64.80000305175781]
+:size [200 88.80000305175781]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -110,9 +110,9 @@
 :point [480 368]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106464981}}
-:block/updated-at 1721106725210} 
-{:block/content "## 已删除\n暂停后删除"
+:nonce 1721106464984}}
+:block/updated-at 1721106785180} 
+{:block/content "## 已删除\n录入、暂停时可以"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66960021-f376-4f7e-bcea-bc8748162881"}
@@ -121,7 +121,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "66960032-f0a4-419b-854f-cd02b50b7f35"} 
-{:block/created-at 1721106636380
+{:block/created-at 1721106784391
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -147,8 +147,8 @@
 :point [96 424]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106480423}}
-:block/updated-at 1721106636380} 
+:nonce 1721106480427}}
+:block/updated-at 1721106784391} 
 {:block/created-at 1721106724553
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -185,7 +185,7 @@
 :nonce 1721106613134
 :italic false}}
 :block/updated-at 1721106724553} 
-{:block/created-at 1721106725220
+{:block/created-at 1721106785188
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -202,13 +202,13 @@
 :id "b74a67e2-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [558.97 271.6]
+:point [561.86 271.6]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [25.5 0]
+:point [23.7 0]
 :bindingId "b74a67e0-4331-11ef-86c2-e736019976a9"}
 :end 
 {:id "end"
@@ -218,10 +218,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106628035
+:nonce 1721106628038
 :italic false}}
-:block/updated-at 1721106725220} 
-{:block/created-at 1721106682253
+:block/updated-at 1721106785188} 
+{:block/created-at 1721106784396
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -254,10 +254,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106639227
+:nonce 1721106639231
 :italic false}}
-:block/updated-at 1721106682253} 
-{:block/created-at 1721106725220
+:block/updated-at 1721106784396} 
+{:block/created-at 1721106785188
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -274,7 +274,7 @@
 :id "c2d2fb42-4331-11ef-86c2-e736019976a9"
 :fontWeight 400
 :noFill true
-:point [292 416.34]
+:point [292 425.52]
 :fontSize 20
 :handles 
 {:start 
@@ -285,14 +285,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [0 29.5]
+:point [0 24.28]
 :bindingId "c2d2fb41-4331-11ef-86c2-e736019976a9"}}
 :decorations 
 {:end "arrow"}
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
-:nonce 1721106647344
+:nonce 1721106647351
 :italic false}}
-:block/updated-at 1721106725220})
+:block/updated-at 1721106785188})
 :pages (
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"
 :block/properties 
@@ -368,7 +368,7 @@
 :nonce 1
 :assets []
 :shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9" "5f4ee840-4331-11ef-86c2-e736019976a9" "ae63f6a2-4331-11ef-86c2-e736019976a9" "b74a67e2-4331-11ef-86c2-e736019976a9" "bdfcbb10-4331-11ef-86c2-e736019976a9" "c2d2fb42-4331-11ef-86c2-e736019976a9")}}
-:block/updated-at 1721106729013
+:block/updated-at 1721106789313
 :block/created-at 1721102375283
 :block/type "whiteboard"
 :block/name "单据状态变化表"

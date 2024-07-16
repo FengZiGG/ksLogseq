@@ -302,12 +302,13 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "669601ea-14ee-4a25-a156-7ea1694a8948"} 
-{:block/created-at 1721106930507
+{:block/created-at 1721107085768
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
+:rotation 0
 :collapsed false
 :borderRadius 8
 :index 8
@@ -318,17 +319,17 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 64.80000305175781]
+:size [200 62.60000228881836]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "6664c2c0-4332-11ef-86c2-e736019976a9"
 :noFill false
-:point [608 64]
+:point [376 -8]
 :parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
 :collapsedHeight 0
-:nonce 1721106921712}}
-:block/updated-at 1721106930507})
+:nonce 1721106921769}}
+:block/updated-at 1721107085768})
 :pages (
 {:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"
 :block/properties 
@@ -404,7 +405,7 @@
 :nonce 1
 :assets []
 :shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9" "ea3a9cb0-4327-11ef-86c2-e736019976a9" "56207180-4331-11ef-86c2-e736019976a9" "5f4ee840-4331-11ef-86c2-e736019976a9" "ae63f6a2-4331-11ef-86c2-e736019976a9" "b74a67e2-4331-11ef-86c2-e736019976a9" "bdfcbb10-4331-11ef-86c2-e736019976a9" "c2d2fb42-4331-11ef-86c2-e736019976a9" "6664c2c0-4332-11ef-86c2-e736019976a9")}}
-:block/updated-at 1721106930507
+:block/updated-at 1721107085768
 :block/created-at 1721102375283
 :block/type "whiteboard"
 :block/name "单据状态变化表"

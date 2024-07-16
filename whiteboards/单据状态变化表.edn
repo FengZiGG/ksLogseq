@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "录入\n新增单据之后的状态"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
+:block/parent 
+{:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"}
+:block/properties 
+{}
+:block/uuid #uuid "6695f039-7e67-4bc4-b9f7-67761db8d4a6"} 
+{:block/created-at 1721102398564
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6695f039-7e67-4bc4-b9f7-67761db8d4a6"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 64.80000305175781]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d68daf90-4327-11ef-86c2-e736019976a9"
+:noFill false
+:point [272 144]
+:parentId "6695f027-77c0-45de-8bf8-923781b4cdea"
+:collapsedHeight 0
+:nonce 1721102385420}}
+:block/updated-at 1721102398564})
+:pages (
+{:block/uuid #uuid "6695f027-77c0-45de-8bf8-923781b4cdea"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6695f027-77c0-45de-8bf8-923781b4cdea"
+:name "单据状态变化表"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("d68daf90-4327-11ef-86c2-e736019976a9")}}
+:block/updated-at 1721102409504
+:block/created-at 1721102375283
+:block/type "whiteboard"
+:block/name "单据状态变化表"
+:block/original-name "单据状态变化表"})}

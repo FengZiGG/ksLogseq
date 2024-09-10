@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :editor/logical-outdenting? true
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :preferred-format :org}

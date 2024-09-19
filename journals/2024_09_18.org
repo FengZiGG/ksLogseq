@@ -15,6 +15,5 @@ graph TD
     F --> B
 
 ```
-**** {{renderer :drawio, 1726710324690.svg}}
 **** {{renderer :figma, https://www.figma.com/design/L9ZtIQY7uA9oWZFImOeWVW/Untitled?node-id=0-1&t=Grelz6cgTxTqOdod-1 }}
 *

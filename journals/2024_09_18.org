@@ -16,5 +16,5 @@ graph TD
 
 ```
 **** {{renderer :drawio, 1726710324690.svg}}
-**** {{renderer :figma, <[[https://www.figma.com/design/L9ZtIQY7uA9oWZFImOeWVW/Untitled?node-id=0-1&m=dev&t=Grelz6cgTxTqOdod-1][figma_url]]> }}
+**** {{renderer :figma, https://www.figma.com/design/L9ZtIQY7uA9oWZFImOeWVW/Untitled?node-id=0-1&m=dev&t=Grelz6cgTxTqOdod-1 }}
 *

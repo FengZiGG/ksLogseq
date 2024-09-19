@@ -4,6 +4,14 @@
 *** 流程图
 **** {{renderer :mermaid_66eb7f6b-dbb5-4936-b093-9741b142ccc9, 3}}
 ***** ```mermaid
+graph TD
+    A[Enter Chart Definition] --> B(Preview)
+    B --> C{decide}
+    C --> D[Keep]
+    C --> E[Edit Definition]
+    E --> B
+    D --> F[Save Image and Code]
+    F --> B
 
 ```
 **

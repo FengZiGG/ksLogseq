@@ -14,5 +14,7 @@ graph TD
     F --> B
 
 ```
-**** {{renderer :figma, https://www.figma.com/design/L9ZtIQY7uA9oWZFImOeWVW/Untitled?node-id=0-1&t=Grelz6cgTxTqOdod-1 }}
+**** {{renderer excalidraw, excalidraw-2024-09-19-11-33-02}}
+****
+****
 *

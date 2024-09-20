@@ -207,6 +207,7 @@ flowchart TD
 ***** 个人供应商扩展
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-20-14-24-43}}
 :PROPERTIES:

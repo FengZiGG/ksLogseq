@@ -96,6 +96,7 @@ flowchart TD
 ***** 文档下载上传功能
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** ^^必填项以供应商类型为准还excel中的为准^^？#question
 :PROPERTIES:
@@ -118,6 +119,10 @@ flowchart TD
 :logseq.order-list-type: number
 :END:
 ****** #TODO
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+******* 自动带入哪些字段
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

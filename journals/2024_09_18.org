@@ -94,6 +94,7 @@ flowchart TD
 ***** 文档下载上传功能
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** ((66ecbecc-b7fc-46f9-8e65-9b2bbe290589))
 :PROPERTIES:

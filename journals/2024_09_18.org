@@ -205,5 +205,9 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+****** {{renderer excalidraw, excalidraw-2024-09-20-14-24-43}}
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ****
 *

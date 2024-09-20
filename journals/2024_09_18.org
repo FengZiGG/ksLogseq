@@ -82,6 +82,10 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+**** [[潜在供应商管理]]
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ***** :PROPERTIES:
 :logseq.order-list-type: number
 :END:

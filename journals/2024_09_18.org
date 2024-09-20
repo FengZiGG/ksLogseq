@@ -99,7 +99,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** 文件审核
+****** 文件审核 #TODO #oms
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
@@ -115,10 +115,11 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** :PROPERTIES:
+****** #TODO
+:PROPERTIES:
 :logseq.order-list-type: number
 :END:
-**** 正式供应商
+**** 正式供应商管理
 ***** 新增(潜在扩展)
 :PROPERTIES:
 :logseq.order-list-type: number

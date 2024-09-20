@@ -95,6 +95,10 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+****** ^^必填项以供应商类型为准还excel中的为准^^？#question
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ****** ((66ecbecc-b7fc-46f9-8e65-9b2bbe290589))
 :PROPERTIES:
 :logseq.order-list-type: number

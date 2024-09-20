@@ -153,12 +153,21 @@ flowchart TD
 ***** 供应商新增(采购新增) #oa #oa1
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** 这里的附件和潜在转正的附件 #question
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-20-11-41-41}}
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+***** 供应商扩展 #oa #oa1
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** {{renderer excalidraw, excalidraw-2024-09-20-11-46-47}}
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

@@ -185,7 +185,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** 在新增界面停用
+****** {{renderer excalidraw, excalidraw-2024-09-20-14-33-27}}
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

@@ -66,8 +66,11 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-***** SRM平台注册的时候添加
+***** SRM平台注册的时候添加`国家`、`省份`、`城市`和`区县`
 :PROPERTIES:
+:logseq.order-list-type: number
+:END:
+***** :PROPERTIES:
 :logseq.order-list-type: number
 :END:
 **** 正式供应商

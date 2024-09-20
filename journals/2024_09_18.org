@@ -154,7 +154,8 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** :PROPERTIES:
+****** 这里的附件和潜在转正的附件 #question
+:PROPERTIES:
 :logseq.order-list-type: number
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-20-11-41-41}}

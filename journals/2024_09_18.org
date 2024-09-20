@@ -193,7 +193,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-***** 个人供应商新增
+***** 个人供应商新增/修改
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

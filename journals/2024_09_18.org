@@ -166,8 +166,17 @@ flowchart TD
 ***** 供应商扩展 #oa #oa1
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-20-11-46-47}}
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+***** 供应商修改 #oa
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 同新增，表单全部带入
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

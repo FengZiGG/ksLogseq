@@ -201,5 +201,9 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+***** 个人供应商扩展
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ****
 *

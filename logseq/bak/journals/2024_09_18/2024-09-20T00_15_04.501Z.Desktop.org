@@ -1,0 +1,20 @@
+* #vendor
+** 需求分析
+** 开发文档
+***
+*** 流程图
+**** {{renderer :mermaid_66eb7f6b-dbb5-4936-b093-9741b142ccc9, 3}}
+***** ```mermaid
+graph TD
+    A[Enter Chart Definition] --> B(Preview)
+    B --> C{decide}
+    C --> D[Keep]
+    C --> E[Edit Definition]
+    E --> B
+    D --> F[Save Image and Code]
+    F --> B
+
+```
+**** {{renderer :drawio, 1726710324690.svg}}
+**** {{renderer :figma, https://www.figma.com/design/L9ZtIQY7uA9oWZFImOeWVW/Untitled?node-id=0-1&t=Grelz6cgTxTqOdod-1 }}
+*

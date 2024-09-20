@@ -1,20 +1,73 @@
 * #vendor
 ** 需求分析
-** 开发文档
-*** 流程图
-**** {{renderer :mermaid_66eb7f6b-dbb5-4936-b093-9741b142ccc9, 3}}
+*** 不同供应商之间的关系
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 正式供应商
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+**** 潜在供应商
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+**** 临时供应商
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+**** 个人供应商
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+**** {{renderer :mermaid_66ebd242-2385-4b08-9b1a-771435cedeab, 3}}
+:PROPERTIES:
+:logseq.order-list-type: number
+:collapsed: true
+:END:
 ***** ```mermaid
-graph TD
-    A[Enter Chart Definition] --> B(Preview)
-    B --> C{decide}
-    C --> D[Keep]
-    C --> E[Edit Definition]
-    E --> B
-    D --> F[Save Image and Code]
-    F --> B
-
+flowchart TD
+	A[采购]
+    B[OA1:OA供应商新增修改流程]
+    C[潜在]
+    D[正式]
+    E[临时]
+    F[个人]
+    G(OA2:新OA流程不签核SQE)
+    H(OA3:采购+SQE审批,SRM内部)
+    J(修改)
+    K(扩展)
+    L(启停)
+    M(自主注册)
+    N(添加类型和权限)
+    O(采购审核)
+    M --> O --> C
+    N --> C
+    C -- OA1转 --> D & E
+    A -- OA1 --> E
+    A -- OA1 --> D
+    E -- OA1转 --> D
+    A -- OA2新增 --> F
+    subgraph op
+        J
+        K
+    end
+    F -- 直接 --> L
+    D & E -- OA3 --> L
+    F -- OA2 --> op
+    D & E -- OA1 --> op
 ```
-**** {{renderer excalidraw, excalidraw-2024-09-19-11-33-02}}
+****
+****
+***
+** 开发文档
+*** 基础页面
+**** 正式供应商
+***** 新增(潜在扩展)
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** {{renderer excalidraw, excalidraw-2024-09-19-11-33-02}}
 ****
 ****
 *

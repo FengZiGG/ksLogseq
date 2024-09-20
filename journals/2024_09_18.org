@@ -144,7 +144,6 @@ flowchart TD
 ***** 供应商新增(潜在转正) #oa #oa1
 :PROPERTIES:
 :logseq.order-list-type: number
-:collapsed: true
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-19-11-33-02}}
 ****** :PROPERTIES:

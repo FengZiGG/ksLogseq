@@ -142,7 +142,6 @@ flowchart TD
 **** [[正式供应商管理]]
 :PROPERTIES:
 :logseq.order-list-type: number
-:collapsed: true
 :END:
 ***** 供应商新增(潜在转正) #oa #oa1
 :PROPERTIES:

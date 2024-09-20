@@ -65,6 +65,7 @@ flowchart TD
 **** [[供应商自助注册]]
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ***** SRM平台注册的时候添加 ~国家~、 ~省份~、 ~城市~和 ~区县~输入框， ~创立日期~选择。#srm
 :PROPERTIES:
@@ -86,6 +87,7 @@ flowchart TD
 **** [[潜在供应商管理]]
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ***** [[供应商自助注册]]
 :PROPERTIES:
@@ -119,7 +121,10 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-**** 3.
+**** [[正式供应商管理]]
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ***** 供应商新增(潜在转正)
 :PROPERTIES:
 :logseq.order-list-type: number

@@ -125,7 +125,12 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-**** :PROPERTIES:
+**** [[供应商显示]] #TODO
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+**** [[审核]] #TODO
+:PROPERTIES:
 :logseq.order-list-type: number
 :END:
 **** [[正式供应商管理]]

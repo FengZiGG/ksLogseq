@@ -62,6 +62,14 @@ flowchart TD
 ***
 ** 开发文档
 *** 基础页面
+**** 自助注册
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+***** SRM平台注册的时候添加
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 **** 正式供应商
 ***** 新增(潜在扩展)
 :PROPERTIES:

@@ -137,7 +137,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-***** 供应商新增(潜在转正)
+***** 供应商新增(潜在转正) #oa
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

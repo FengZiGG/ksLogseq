@@ -62,7 +62,7 @@ flowchart TD
 ***
 ** 开发文档
 *** 基础页面
-**** 自助注册
+**** [[供应商自助注册]]
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

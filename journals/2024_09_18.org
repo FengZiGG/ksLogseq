@@ -104,6 +104,13 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+***** 固定模版填写
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** :PROPERTIES:
+:logseq.order-list-type: number
+:END:
 **** 正式供应商
 ***** 新增(潜在扩展)
 :PROPERTIES:

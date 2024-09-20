@@ -66,7 +66,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-***** SRM平台注册的时候添加 `国家` 、`省份`、`城市`和`区县`输入框，`创立日期`选择。oms中自助注册管理中添加两个功能，添加供应商类型和开通文档
+***** SRM平台注册的时候添加 `国家` 、`省份`、`城市`和`区县`输入框，`创立日期`选择。oms中自助注册管理中添加两个功能，添加供应商类型和开通文档下载上传功能
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

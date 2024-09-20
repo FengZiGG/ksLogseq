@@ -119,12 +119,14 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-**** [[正式供应商管理]]
+**** 3.
 ***** 供应商新增(潜在转正)
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-19-11-33-02}}
-****
+****** :PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ****
 *

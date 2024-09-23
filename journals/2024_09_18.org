@@ -66,9 +66,18 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+***** 供应商类型
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 创建表
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ***** 公司+事业部 审核人员 #审核
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** 公司+事业部+角色(SQE、采购经理)+人员
 :PROPERTIES:
@@ -94,6 +103,7 @@ flowchart TD
 ***** 供货类别
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** 小类中类是否可以删除？编辑的时候字段置灰？#question
 :PROPERTIES:

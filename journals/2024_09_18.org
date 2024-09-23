@@ -120,6 +120,14 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+***** 交易币别
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 直接创建表，Vendor
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ***** 银行代码
 :PROPERTIES:
 :logseq.order-list-type: number

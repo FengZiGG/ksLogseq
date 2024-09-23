@@ -14,8 +14,10 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: www
           branch: master
+          folder: www
+          clean: true
+          single-commit: true
           token: ${{ secrets.ACCESS_TOKEN }}
 
 # This is a basic workflow to help you get started with Actions

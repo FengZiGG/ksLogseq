@@ -95,7 +95,8 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** :PROPERTIES:
+******* {{renderer excalidraw, excalidraw-2024-09-23-09-53-10}}
+:PROPERTIES:
 :logseq.order-list-type: number
 :END:
 **** [[供应商自助注册]]

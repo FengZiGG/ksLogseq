@@ -74,7 +74,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** 写死的不需要任何页面吗？查看
+****** 写死的不需要任何页面吗？查看的页面呢
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

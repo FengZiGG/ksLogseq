@@ -95,7 +95,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** 小类中类是否可以删除？编辑的时候
+****** 小类中类是否可以删除？编辑的时候字段置灰？#question
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

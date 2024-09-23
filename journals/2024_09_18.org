@@ -70,7 +70,11 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** 公司+事业部+角色
+****** 公司+事业部+角色(SQE、采购经理)+人员
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** {{renderer excalidraw, excalidraw-2024-09-23-08-49-34}}
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

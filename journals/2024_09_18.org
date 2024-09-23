@@ -69,8 +69,13 @@ flowchart TD
 ***** 供应商类型
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
-****** 创建表
+****** 直接创建表，名称VendorType
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+***** 供应商类型和资质文件
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

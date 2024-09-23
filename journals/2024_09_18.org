@@ -2,7 +2,6 @@
 ** 需求分析
 *** 不同供应商之间的关系
 :PROPERTIES:
-:collapsed: true
 :END:
 **** 正式供应商
 :PROPERTIES:
@@ -318,6 +317,7 @@ flowchart TD
 ***** 个人供应商停用
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-20-14-47-40}}
 :PROPERTIES:

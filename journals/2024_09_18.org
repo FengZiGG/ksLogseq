@@ -69,7 +69,6 @@ flowchart TD
 ***** 公司+事业部 审核人员 #审核
 :PROPERTIES:
 :logseq.order-list-type: number
-:collapsed: true
 :END:
 ****** 公司+事业部+角色(SQE、采购经理)+人员
 :PROPERTIES:

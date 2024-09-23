@@ -95,7 +95,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** 供货种类
+****** 供货中类
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

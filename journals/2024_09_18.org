@@ -74,7 +74,7 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-****** 公司、事业部和员工之间的关系
+****** 公司、事业部和员工之间的关系，员工会限定在公司或者事业部的组合中吗 #question
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

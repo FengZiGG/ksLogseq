@@ -66,7 +66,16 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
-***** :PROPERTIES:
+***** #TODO #question
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 哪些是已有的表，可以重用，还是全部创建新表
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 写死的不需要任何页面吗？查看
+:PROPERTIES:
 :logseq.order-list-type: number
 :END:
 ***** 供应商类型

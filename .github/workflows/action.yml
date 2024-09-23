@@ -8,14 +8,13 @@ jobs:
     name: Publish Logseq graph
     steps:
       - uses: actions/checkout@v4
-      - name: Logseq Publish  
-        uses: FengZiGG/ksLogseq@main
       - uses: logseq/publish-spa@v0.3.0
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          repository-name: FengZiGG/MyLogseq-Publish
           branch: master
           folder: www
           clean: true

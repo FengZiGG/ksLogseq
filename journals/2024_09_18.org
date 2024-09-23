@@ -81,9 +81,21 @@ flowchart TD
 ***** 银行代码
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ****** {{renderer excalidraw, excalidraw-2024-09-23-09-39-29}}
 :PROPERTIES:
+:logseq.order-list-type: number
+:END:
+***** 供货类别
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 供货种类
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** :PROPERTIES:
 :logseq.order-list-type: number
 :END:
 **** [[供应商自助注册]]

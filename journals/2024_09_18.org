@@ -66,10 +66,12 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+***** :PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ***** 供应商类型
 :PROPERTIES:
 :logseq.order-list-type: number
-:collapsed: true
 :END:
 ****** 直接创建表，名称VendorType
 :PROPERTIES:
@@ -78,8 +80,17 @@ flowchart TD
 ***** 供应商类型和资质文件关系
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
-****** 资质文件表id + 供应商类型id，查询的时候根据id查询出
+****** 资质文件表id + 供应商类型id，查询的时候根据id查询出所有文件
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+***** 付款条件
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 直接创建表，名称VendorPayment
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

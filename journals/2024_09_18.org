@@ -98,8 +98,17 @@ flowchart TD
 ****** 供货中类
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ******* {{renderer excalidraw, excalidraw-2024-09-23-09-53-10}}
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+****** 供货小类
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+******* {{renderer excalidraw, excalidraw-2024-09-23-10-20-51}}
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:

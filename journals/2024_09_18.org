@@ -95,6 +95,10 @@ flowchart TD
 :PROPERTIES:
 :logseq.order-list-type: number
 :END:
+****** 小类中类是否可以删除？编辑的时候
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
 ****** 供货中类
 :PROPERTIES:
 :logseq.order-list-type: number
@@ -107,6 +111,7 @@ flowchart TD
 ****** 供货小类
 :PROPERTIES:
 :logseq.order-list-type: number
+:collapsed: true
 :END:
 ******* {{renderer excalidraw, excalidraw-2024-09-23-10-20-51}}
 :PROPERTIES:
